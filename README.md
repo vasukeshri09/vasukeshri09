@@ -115,6 +115,17 @@ An LLM-based application for generating customized short stories.
   />
 </p>
 
+
+## 🟩 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vasukeshri09&theme=github-compact&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
