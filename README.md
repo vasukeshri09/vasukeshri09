@@ -118,9 +118,10 @@ An LLM-based application for generating customized short stories.
 
 ## 🟩 Contribution Activity
 
+
 <p align="center">
   <img
-    src="![GitHub Contribution Activity](https://YOUR-DEPLOYMENT-DOMAIN/graph?username=vasukeshri09&theme=github-compact)"
+    src="https://YOUR-DEPLOYMENT-DOMAIN/graph?username=vasukeshri09&theme=github-compact"
     alt="GitHub contribution activity graph"
     width="100%"
   />
