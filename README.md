@@ -120,7 +120,7 @@ An LLM-based application for generating customized short stories.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vasukeshri09&theme=github-compact&hide_border=true"
+    src="![GitHub Contribution Activity](https://YOUR-DEPLOYMENT-DOMAIN/graph?username=vasukeshri09&theme=github-compact)"
     alt="GitHub contribution activity graph"
     width="100%"
   />
